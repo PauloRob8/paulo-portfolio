@@ -1,6 +1,6 @@
-# paulo_porfolio
+# paulo_portfolio
 
-A new Flutter project.
+My personal portfolio using Flutter Web and hosting with Firebase
 
 ## Getting Started
 
